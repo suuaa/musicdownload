@@ -1,0 +1,14 @@
+﻿{
+  "name": "meting-local",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs"
+  },
+  "dependencies": {
+    "@meting/core": "latest",
+    "NeteaseCloudMusicApi": "latest",
+    "playwright": "latest"
+  }
+}
