@@ -3,6 +3,11 @@ target/
 meting-local/node_modules/
 meting-local/.qq-login-profile/
 dist/
+meting-local/cookie*.txt
+**/cookie*.txt
+**/Cookies
+**/Cookies-journal
+meting-local/tmp-*.mjs
 *.pid
 *.log
 .server_pid
